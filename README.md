@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Candidate kit
 
 Read in this order:
@@ -24,3 +25,7 @@ MongoDB **6.0 or newer** is required (the grader uses 7.0). MongoDB Atlas free t
 ## Submit
 A public Git repository with `app/main.py`, `requirements.txt`, `REVIEW.md`, `DECISIONS.md` and a short `README.md`.
 No `.env`, no secrets, no Dockerfile.
+=======
+# employee-attendance-analytics-api
+Employee Attendance &amp; Analytics API using FastAPI and MongoDB
+>>>>>>> 01c5989b1bb1cf24c02fd13cc10bd8bfe80b3bf1
